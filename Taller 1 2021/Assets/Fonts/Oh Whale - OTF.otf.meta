@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: bd274750187e02345b98a78c7a2a6dfc
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Oh Whale
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: aa30298f7be05ac49b17122ae6535e3c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
